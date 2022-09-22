@@ -10,6 +10,10 @@ function Nav({ setCurrentPage }) {
         <li>Contact</li>
         <li>Resume</li>
       </ul>
+      <h2>Projects:</h2>
+        <a href="https://gametime-g6.herokuapp.com/" target="_blank" rel="noreferrer">
+            Game Time 
+          </a>
     </header>
   );
 }
